@@ -248,6 +248,12 @@ npm install --global windows-build-tools
 **App loads but shows no data** → Make sure both server processes started. Click "Seed Demo Data".
 
 ---
+## Project By:
+1. Aarush Kukade
+2. Atharva Mane
+3. Advait Deogade
+
+
 
 ## License
 
